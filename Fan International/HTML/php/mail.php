@@ -3,8 +3,8 @@
 /* =====================================================
  * change this to the email you want the form to send to
  * ===================================================== */
-$email_to = "alcandem@gmail.com"; 
-$email_from = "webmaster@company.pw"; // must be different than $email_from 
+$email_to = "contact@fanintl.com.sg"; 
+$email_from = "webpage@fanintl.pw"; // must be different than $email_from 
 $email_subject = "Contact Form submitted";
 
 if(isset($_POST['email']))
